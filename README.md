@@ -25,11 +25,17 @@ This repository strictly follows the OIBSIP folder naming convention: `[TrackNam
 * **[Task 3: Data Cleaning](DataAnalytics-L1-DataCleaning/)**
   - **Description:** Handled missing values, standardized categorical labels, performed mathematical data imputation, and converted incorrect string formats into proper numeric and datetime types using Pandas.
 
+* **[Task 4: Sentiment Analysis](DataAnalytics-L1-SentimentAnalysis/)**
+  - **Description:** Applied NLP techniques to classify the sentiment of social media text. Utilized NLTK's VADER SentimentIntensityAnalyzer to generate compound polarity scores, achieving a 63% baseline accuracy, and visualized model bias against ground-truth labels using Seaborn.
+
 #### Level 2
 
 - **[Task 3: Credit Card Fraud Detection](DataAnalytics-L2-FraudDetection/)**
   - **Description:** Analyzed severe class imbalance in transaction data and applied SMOTE to generate synthetic fraud cases. Trained Logistic Regression and Random Forest models, achieving a 0.89 Recall to effectively minimize false negatives.
   - **Tech Stack:** Python, Pandas, Scikit-Learn (SMOTE, RandomForestClassifier), Matplotlib, Seaborn
+
+* **[Task 4: Google Play Store Analysis](DataAnalytics-L2-GooglePlayStore/)**
+  - **Description:** Conducted Exploratory Data Analysis (EDA) on the Android app market to identify category saturation and download trends. Cleaned malformed string data and visualized rating distributions and monetization impacts using Matplotlib and Seaborn.
 
 _(More tasks will be added as the internship progresses)_
 
