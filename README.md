@@ -22,6 +22,9 @@ This repository strictly follows the OIBSIP folder naming convention: `[TrackNam
   - **Description:** Applied RFM (Recency, Frequency, Monetary) analysis and K-Means clustering to segment an e-commerce customer base into distinct behavioral profiles (e.g., VIPs, Loyalists, At-Risk).
   - **Tech Stack:** Python, Pandas, Scikit-Learn (KMeans, StandardScaler), Matplotlib, Seaborn
 
+* **[Task 3: Data Cleaning](DataAnalytics-L1-DataCleaning/)**
+  - **Description:** Handled missing values, standardized categorical labels, performed mathematical data imputation, and converted incorrect string formats into proper numeric and datetime types using Pandas.
+
 #### Level 2
 
 - **[Task 3: Credit Card Fraud Detection](DataAnalytics-L2-FraudDetection/)**
