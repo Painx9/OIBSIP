@@ -1,18 +1,18 @@
-# Oasis Infobyte Internship (OIBSIP) - Data Analytics 📊
+# Oasis Infobyte Internship (OIBSIP) - Data Analytics
 
 Welcome to my portfolio repository for the Oasis Infobyte Summer Internship Program (OIBSIP). This repository contains all my completed task submissions for the **Data Analytics** track.
 
-## 🎯 Objective
+## Objective
 
 To apply data analytics, machine learning, and data visualization techniques to real-world datasets, extracting actionable business insights and solving analytical problems.
 
-## 🎥 Video Presentation
+## Video Presentation
 
 _(Add the link to your video presentation here once uploaded!)_
 
 - **Watch the full project breakdown and demonstration:** [Insert YouTube/LinkedIn Link Here]
 
-## 📂 Repository Structure
+## Repository Structure
 
 This repository strictly follows the OIBSIP folder naming convention: `[TrackName]-[Level/Task]-[ProjectName]/`.
 
@@ -52,9 +52,9 @@ This repository strictly follows the OIBSIP folder naming convention: `[TrackNam
 - **[Task 5: Autocomplete and Autocorrect](DataAnalytics-L2-AutocompleteAutocorrect/)**
   - **Description:** Built a predictive bigram autocomplete model and a Levenshtein edit-distance autocorrect engine using NLTK and pyspellchecker. Processed a Gutenberg corpus and visualized Top-20 token frequencies and autocorrect confusion matrices.
 
-✅ _All internship tasks successfully completed!_
+_All internship tasks successfully completed!_
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Programming Language:** Python 3.x
 - **Data Manipulation:** Pandas, NumPy
@@ -64,6 +64,6 @@ This repository strictly follows the OIBSIP folder naming convention: `[TrackNam
 - **Environment:** Jupyter Notebook / VS Code
 - **Version Control:** Git & GitHub
 
-## 📜 License
+## License
 
 This repository is created solely for the educational and evaluation purposes of the Oasis Infobyte internship program.
