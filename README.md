@@ -37,6 +37,9 @@ This repository strictly follows the OIBSIP folder naming convention: `[TrackNam
 * **[Task 4: Google Play Store Analysis](DataAnalytics-L2-GooglePlayStore/)**
   - **Description:** Conducted Exploratory Data Analysis (EDA) on the Android app market to identify category saturation and download trends. Cleaned malformed string data and visualized rating distributions and monetization impacts using Matplotlib and Seaborn.
 
+* **[Task 5: Autocomplete and Autocorrect](DataAnalytics-L2-AutocompleteAutocorrect/)**
+  - **Description:** Built a predictive bigram autocomplete model and a Levenshtein edit-distance autocorrect engine using NLTK and pyspellchecker. Processed a Gutenberg corpus and visualized Top-20 token frequencies and autocorrect confusion matrices.
+
 _(More tasks will be added as the internship progresses)_
 
 ## 🛠️ Tech Stack & Tools
